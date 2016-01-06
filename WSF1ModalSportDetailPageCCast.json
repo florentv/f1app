@@ -1,0 +1,67 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportDetailPageCcast",
+    "displayName": "Accrochage Vettel sous tous les angles",
+    "URLVitrine": "...",
+    "BOName": "GENERIQUE - Ccast",
+    "BOLayoutName": "GENERIQUE - Ccast - Phone",
+    "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Mob",
+      "s.prop4": "F1Mob - Live",
+      "s.prop5": "F1Mob - Live - Grand Prix d'Italie",
+      "s.prop6": "F1Mob - Live - Grand Prix d'Italie - Ccast - Accrochage Vettel sous tous les angles",
+      "s.pagename": "F1Mob - Live - Grand Prix d'Italie - Ccast - Accrochage Vettel sous tous les angles"
+    }
+  },
+  "detail": {
+    "informations": {
+      "title": "Accrochage Vettel sous tous les angles",
+      "summary": "Au 41e tour, Vettel arrive trop vite sur le 4eme virage et sort de piste. Plus de peur que de mal pour l'allemand qui parvient à reprendre la course.",
+      "type": "ccast",
+      "eventType": "f1",
+      "contentID": "32162",
+      "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/985/E89/ED4/985E89ED465165E5DE9BB2AB0C3E80AE_212x159.png",
+      "time": "41",
+      "picto": "DEPASSEMENT",
+      "duration": 41740,
+      "multicam": [
+        {
+          "camPosition": "1",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=1&params[matchid]=2016_203_M_316113"
+        },
+        {
+          "camPosition": "2",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=2&params[matchid]=2016_203_M_316113"
+        },
+        {
+          "camPosition": "3",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=3&params[matchid]=2016_203_M_316113"
+        },
+        {
+          "camPosition": "4",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=4&params[matchid]=2016_203_M_316113"
+        },
+        {
+          "camPosition": "12",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=12&params[matchid]=2016_203_M_316113"
+        },
+        {
+          "camPosition": "17",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=17&params[matchid]=2016_203_M_316113"
+        },
+        {
+          "camPosition": "19",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=19&params[matchid]=2016_203_M_316113"
+        },
+        {
+          "camPosition": "14",
+          "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/4148.json?params[videoid]=38945&params[videoFormat]=m3u8_android-6outputs&params[cam]=14&params[matchid]=2016_203_M_316113"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportRanking",
+    "displayName": "Course",
+    "pullToRefresh": true,
+    "BOName": "GENERIQUE - Classement",
+    "BOLayoutName": "GENERIQUE - Classement",
+    "slug": "/top-14/pid3964-classement.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Grand Prix d'Italie",
+      "s.prop5": "F1Tab - Grand Prix d'Italie - Classements - Course",
+      "s.pagename": "F1Tab - Grand Prix d'Italie - Classements - Course"
+    }
+  },
+  "strates": [
+    {
+      "displayName": "Course",
+      "events": [
+        {
+          "title": "Temps",
+          "Id": "total",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "1er",
+          "title": "Hamilton Lewis",
+          "subtitle": "Mercedes",
+          "thirdTitle": "1h35'5\"809"
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/raikkonen.png",
+          "ranking": "2e",
+          "title": "Räikkönen Kimi",
+          "subtitle": "Ferrari",
+          "thirdTitle": "+ 3,380\""
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "3e",
+          "title": "Hamilton Lewis",
+          "subtitle": "Ferrari",
+          "thirdTitle": "1h35'5\"809"
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "4e",
+          "title": "Hamilton Lewis",
+          "subtitle": "Ferrari",
+          "thirdTitle": "1h35'5\"809"
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "5e",
+          "title": "Hamilton Lewis",
+          "thirdTitle": "1h35'5\"809"
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "6e",
+          "title": "Hamilton Lewis",
+          "subtitle": "Ferrari",
+          "thirdTitle": "1h35'5\"809"
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "7e",
+          "title": "Hamilton Lewis",
+          "subtitle": "Ferrari",
+          "thirdTitle": "1h35'5\"809"
+        }
+      ]
+    }
+  ]
+}

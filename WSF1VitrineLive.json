@@ -1,0 +1,976 @@
+{
+  "currentPage": {
+    "displayTemplate": "vitrine",
+    "autorefresh": 30000
+  },
+  "strates": [
+    {
+      "type": "eventVitrine",
+      "title": "Grand Prix du Japon",
+      "subtitle": "45e / 71 tours",
+      "tvChannel": "Canal+ SPORT",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
+      "autorefresh": 30000
+    },
+    {
+      "type": "rankingVitrine",
+      "title": "Classement de la course",
+      "contents": [
+        {
+          "title": "Hamilton Lewis",
+          "subtitle": "Mercedes",
+          "thirdTitle": "1h28'6\"508",
+          "ranking": "1er",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png"
+        },
+        {
+          "title": "Rosberg Nico",
+          "subtitle": "Mercedes",
+          "thirdTitle": "+ 18,964\"",
+          "ranking": "2e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/rosberg.png"
+        },
+        {
+          "title": "Vettel Sebastian",
+          "subtitle": "Ferrari",
+          "thirdTitle": "+ 20,850\"",
+          "ranking": "3e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/vettel.png"
+        },
+        {
+          "title": "Räikkönen Kimi",
+          "subtitle": "Ferrari",
+          "thirdTitle": "+ 33,768\"",
+          "ranking": "4e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/raikkonen.png"
+        },
+        {
+          "title": "Bottas Valtteri",
+          "subtitle": "Williams",
+          "thirdTitle": "+ 36,746\"",
+          "ranking": "5e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/bottas.png"
+        },
+        {
+          "title": "Hülkenberg Nico",
+          "subtitle": "Force India",
+          "thirdTitle": "+ 55,559\"",
+          "ranking": "6e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hulkenberg.png"
+        },
+        {
+          "title": "Grosjean Romain",
+          "subtitle": "Lotus",
+          "thirdTitle": "+ 1'12,298\"",
+          "ranking": "7e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/grosjean.png"
+        },
+        {
+          "title": "Maldonado Pastor",
+          "subtitle": "Lotus",
+          "thirdTitle": "+ 1'13,575\"",
+          "ranking": "8e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/maldonado.png"
+        },
+        {
+          "title": "Verstappen Max",
+          "subtitle": "Toro Rosso",
+          "thirdTitle": "+ 1'35,315\"",
+          "ranking": "9e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/verstappen.png"
+        },
+        {
+          "title": "Sainz Jr Carlos",
+          "subtitle": "Toro Rosso",
+          "thirdTitle": "+ 1 tour",
+          "ranking": "10e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/sainzjr.png"
+        },
+        {
+          "title": "Alonso Fernando",
+          "subtitle": "McLaren",
+          "thirdTitle": "+ 1 tour",
+          "ranking": "11e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/alonso.png"
+        },
+        {
+          "title": "Pérez Sergio",
+          "subtitle": "Force India",
+          "thirdTitle": "+ 1 tour",
+          "ranking": "12e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/perez.png"
+        },
+        {
+          "title": "Kvyat Daniil",
+          "subtitle": "Red Bull",
+          "thirdTitle": "+ 1 tour",
+          "ranking": "13e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/kvyat.png"
+        },
+        {
+          "title": "Ericsson Marcus",
+          "subtitle": "Sauber",
+          "thirdTitle": "+ 1 tour",
+          "ranking": "14e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/ericsson.png"
+        },
+        {
+          "title": "Ricciardo Daniel",
+          "subtitle": "Red Bull",
+          "thirdTitle": "+ 1 tour",
+          "ranking": "15e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/ricciardo.png"
+        },
+        {
+          "title": "Button Jenson",
+          "subtitle": "McLaren",
+          "thirdTitle": "+ 1 tour",
+          "ranking": "16e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/button.png"
+        },
+        {
+          "title": "Massa Felipe",
+          "subtitle": "Williams",
+          "thirdTitle": "+ 2 tours",
+          "ranking": "17e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/massa.png"
+        },
+        {
+          "title": "Rossi Alexander",
+          "subtitle": "Manor",
+          "thirdTitle": "+ 2 tours",
+          "ranking": "18e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/rossi.png"
+        },
+        {
+          "title": "Stevens Will",
+          "subtitle": "Manor",
+          "thirdTitle": "+ 3 tours",
+          "ranking": "19e",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/stevens.png"
+        },
+        {
+          "title": "Nasr Felipe",
+          "subtitle": "Sauber",
+          "thirdTitle": "+ 4 tours",
+          "ranking": "Ret",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/nasr.png"
+        }
+      ]
+    },
+    {
+      "type": "buttonVitrine",
+      "buttonstype": [
+        {
+          "title": "Horaires",
+          "picto": "schedule",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayMode": "modal",
+            "displayName": "Horaires",
+            "URLPage": "...",
+            "BOName": "GENERIQUE - Popin Horaires",
+            "BOLayoutName": "GENERIQUE - Popin Horaires",
+            "slug": "/ne-pas-toucher-rugby/pid3970-generique-popin-horaires.html"
+          }
+        },
+        {
+          "title": "Circuit",
+          "picto": "modalLanding",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayMode": "modal",
+            "displayName": "Circuit",
+            "URLPage": "...",
+            "BOName": "GENERIQUE - Popin Circuit",
+            "BOLayoutName": "GENERIQUE - Popin Circuit",
+            "slug": "/ne-pas-toucher-rugby/pid3970-generique-popin-resultats.html"
+          }
+        },
+        {
+          "title": "Classements",
+          "picto": "Results",
+          "onClick": {
+            "displayTemplate": "modalGabaritList",
+            "displayName": "Classements",
+            "URLPage": "...",
+            "displayType": "Classements",
+            "BOName": "GENERIQUE - Popin Classements",
+            "BOLayoutName": "GENERIQUE - Popin Classements",
+            "slug": "/ne-pas-toucher-rugby/pid3970-generique-popin-resultats.html"
+          }
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "Temps forts",
+      "nbContentPortrait": 80,
+      "nbContentLandscape": 80,
+      "autorefresh": 30000,
+      "openDirectlyInCurrentPage": true,
+      "contents": [
+        {
+          "type": "ccast",
+          "contentID": "5477",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/589/C65/55F/589C6555F71BAF54B8974031B94D8AF8_212x159.png",
+          "title": "JOIE DES BRIVISTES",
+          "summary": "Grâce à cette victoire, les Brivistes passent devant leurs adversaires du soir au classement et grimpent à la 5ème place du TOP 14.",
+          "picto": "JOIE",
+          "highlight": false,
+          "time": "AP",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39286",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5476",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/FC9/06C/516/FC906C5163FD489F433159A1CA64A2A6_212x159.png",
+          "title": "FIN DE MATCH",
+          "summary": "Fin de match sur cette victoire aux forceps des Brivistes.",
+          "picto": "FIN DE MATCH",
+          "highlight": false,
+          "time": "AP",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39285",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5475",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/7D5/1B7/A93/7D51B7A93F8A137E9327221A54332675_212x159.png",
+          "title": "PENALITE DEMETRI CATRAKILIS",
+          "summary": "Aux 22 mètres, Catrakilis passe sa pénalité.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "68'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39284",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5474",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/4CF/AF4/264/4CFAF42647503A7A950A131462433132_212x159.png",
+          "title": "FAUTE BRIVE",
+          "summary": "Grosse pression montpelliéraine qui pousse les Brivistes à la faute.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "68'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39283",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5473",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/393/FDB/D8B/393FDBD8B106391B5BBD81B640649B5F_212x159.png",
+          "title": "PENALITE TEDDY IRIBAREN",
+          "summary": "A 40 mètres dans l'axe, Iribaren réussit la pénalité : 19-15.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "67'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39282",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5472",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/181/D07/65F/181D0765F865C81A3390DF59B02A77B2_212x159.png",
+          "title": "FAUTE MONTPELLIERAINE",
+          "summary": "APrès une touche, les Montpelliérains se mettent à la faute, offrant aux locaux l'occasion de se détacher au score.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "66'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39281",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5471",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/497/DDE/805/497DDE8056550CD9B9EC43DD7F85596B_212x159.png",
+          "title": "PENALITE DE DEMETRI CATRAKILIS",
+          "summary": "Aux 30 mètres, à droite des perches, Catrakilis réussit sa pénalité et ramène les Héraultais à 1 point : 16-15.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "62'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39280",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5470",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/BAA/DD7/901/BAADD790183214D7889D725FD64A7FE1_212x159.png",
+          "title": "FAUTE BRIVE",
+          "summary": "Faute au sol de Brive qui va permettre aux Héraultais de revenir au score.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "61'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39279",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5469",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/C63/020/294/C63020294FD147E5B9292173FE13D096_212x159.png",
+          "title": "PENALITE TEDDY IRIBAREN",
+          "summary": "30 mètres sur la droite, Iribaren réussit sa pénalité : 16-12 pour Brive.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "57'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39278",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5468",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/4A2/D81/5FB/4A2D815FB435E8997DE5796263CD0862_212x159.png",
+          "title": "FAUTE MONTPELLIER",
+          "summary": "Montpellier est sanctionné en mêlée. Pénalité à venir.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "56'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39277",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5467",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/62F/340/D22/62F340D22E98FEAB991CA00BB1010E53_212x159.png",
+          "title": "TEMPS FORT BRIVE",
+          "summary": "Nouveau temps fort pour les Brivistes, encore sous l'impulsion Luafutu.",
+          "picto": "TEMPS FORT",
+          "highlight": false,
+          "time": "44'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39276",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5466",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/829/6FF/EC8/8296FFEC80436C4B82AEE6352D7F8425_212x159.png",
+          "title": "TRANSFORMATION TEDDY IRIBAREN",
+          "summary": "Excentré à gauche, Iribaren passe la transformation et passe devant au score pour la première fois du mach : 13-12.",
+          "picto": "TRANSFORMATION REUSSIE",
+          "highlight": false,
+          "time": "42'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39275",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5465",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/064/9F0/54C/0649F054CF5D4B3C4A6B172FCA8EC8E4_212x159.png",
+          "title": "COUP D'ENVOI SECONDE PERIODE ET ESSAI POUTASI LUAFUTU",
+          "summary": "Les Brivistes attaquent tambour battant cette seconde période. Côté gauche, Luafutu amorce une percée collective, aidé d'Ulgade et Masilevu. Le 3ème ligne est à la conclusion pour le 1er essai du match.",
+          "picto": "ESSAI",
+          "highlight": true,
+          "time": "40'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39274",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5464",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/BC4/5A1/F29/BC45A1F297DAE3E3881AB4EF85E182B9_212x159.png",
+          "title": "ENTREE DES EQUIPES POUR LA SECONDE PERIODE",
+          "summary": "Les deux équipes rentrent sur la pelouse pour cette seconde période.",
+          "picto": "ENTREE DES EQUIPES",
+          "highlight": false,
+          "time": "M-T",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39273",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5463",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/784/839/FA6/784839FA6522E1BDE9883F6398CDAF1D_212x159.png",
+          "title": "C'EST LA MI-TEMPS A BRIVE",
+          "summary": "Mi-temps à Brive sur ce score de 6-12 pour les Montpelliérains.",
+          "picto": "FIN DE PERIODE",
+          "highlight": false,
+          "time": "M-T",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39272",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5461",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/5F1/C76/998/5F1C76998E2A6C72EBAE4CE40D4B8CE2_212x159.png",
+          "title": "PENALITE DE TEDDY IRIBARDEN POUR BRIVE",
+          "summary": "Iribarden ne tremble pas et ramène son équipe à 6 points.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "35'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39271",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5462",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/864/2D2/BEF/8642D2BEFCC125FBCAEE32DDC1EE4B0F_212x159.png",
+          "title": "FAUTE MONTPELLIER",
+          "summary": "Cette fois-ci, c'est Montpellier qui est sanctionné, offrant aux Brivistes l'occasion de revenir dans le match.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "34'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39270",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5460",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/4B2/1B2/8A4/4B21B28A487AA643E584CD750D65A5E9_212x159.png",
+          "title": "PENALITE BENOIT PAILLAUGUE",
+          "summary": "Aux 50 mètres, Paillaugue prend la pénalité et la réussit : 3-12.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "33'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39269",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5459",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/04A/C02/26B/04AC0226B650FB4EC7106D2BBBA2654B_212x159.png",
+          "title": "FAUTE BRIVE",
+          "summary": "Nouvelle faute briviste en mêlée, cette fois-ci du nouvel entrant Jourdain.",
+          "picto": "MATCH",
+          "highlight": false,
+          "time": "32'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39268",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5458",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/E78/0C6/0C2/E780C60C274134D345B5CC36B6AA1F95_212x159.png",
+          "title": "PENALITE DEMETRI CATRAKILIS",
+          "summary": "Excentré côté gauche, Catrakilis réussit sa pénalité et redonne 6 points d'avance aux Héraultais.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "31'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39267",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5457",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/CDC/011/A46/CDC011A46B434A199F2F3823B042E94E_212x159.png",
+          "title": "FAUTE BRIVE",
+          "summary": "Les Brivistes se mettent à la faute en mêlée. Pénalité à venir.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "30'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39266",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5456",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/E31/213/C7B/E31213C7B16D22F54FFC483215D9E5C6_212x159.png",
+          "title": "PENALITE DE TEDDY IRIBADEN POUR LES CORREZIENS",
+          "summary": "Iribaren, aux 20 mètres, offre les 3 premiers points de la soirée aux locaux.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "19'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39265",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5455",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/B94/AB0/83A/B94AB083AB087C982100D9C6E8D71B80_212x159.png",
+          "title": "FAUTE MONTPELLIER",
+          "summary": "Forte pression sur l'arrière-garde montpelliéraine, qui se met à la faute et concède une pénalité.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "18'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39264",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5454",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/A7C/FF9/9C3/A7CFF99C367E16AD652973293EB4DA9C_212x159.png",
+          "title": "PENALITE DE DEMETRI CATRAKILIS",
+          "summary": "Aux 30 mètres, Catrakilis donne 6 points d'avance aux Héraultais.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "13'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39263",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5453",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/395/999/A38/395999A38FF368921AC9108DE324FA85_212x159.png",
+          "title": "FAUTE DES BRIVISTES",
+          "summary": "A la suite d'une pénaltouche, les Brivistes se mettent de nouveau à la faute. Pénalité à venir.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "12'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39262",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5452",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/53A/280/076/53A2800769872FAEDABFE3059C2AE471_212x159.png",
+          "title": "PENALITE DE DEMETRI CATRAKILIS",
+          "summary": "Pénalité bottée et réussie par Catrakilis, à plus de 40 mètres.",
+          "picto": "PENALITE REUSSIE",
+          "highlight": false,
+          "time": "6'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39261",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5451",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/CE2/F1F/3B6/CE2F1F3B690B498FAC954DD4B27EF96B_212x159.png",
+          "title": "FAUTE BRIVE",
+          "summary": "Ribes se rend coupable d'un placage illicite. ",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "5'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39260",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5450",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/7B6/499/F5D/7B6499F5DBFD23B4E301FD15594FE2DC_212x159.png",
+          "title": "COUP D'ENVOI DU MATCH",
+          "summary": "Les Montpelliérains donnent le coup d'envoi de la rencontre.",
+          "picto": "FAUTE",
+          "highlight": false,
+          "time": "1'",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39259",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5449",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/0EA/A04/075/0EAA04075F6344132FB128B2FFFCBA41_212x159.png",
+          "title": "ENTREE DES EQUIPES",
+          "summary": "Les deux équipes rentrent sur le terrain du stade Amédée Domenech.",
+          "picto": "ENTREE DES EQUIPES",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39258",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5448",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/F64/495/3F6/F644953F615FB59D092A84C55B2E3C90_212x159.png",
+          "title": "MOTIVATION DES BRIVISTES",
+          "summary": "En cas de victoire, les Brivistes passeraient devant leur adversaire du soir.",
+          "picto": "MOTIVATION",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39257",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5447",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D03/8B9/107/D038B910781CB55435139ECA47483A38_212x159.png",
+          "title": "MOTIVATION MONTPELLIER",
+          "summary": "Les Montpelliérains voudront conserver leur place dans le TOP 6.",
+          "picto": "MOTIVATION",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39256",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5446",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/604/AC1/608/604AC160848EE73817F6AAF105711CA6_212x159.png",
+          "title": "COMPO MONTPELLIER",
+          "summary": "Jake White a choisi de reconduire le même XV que face à Agen, avec Paillaugue et Catrakilis en charnière.",
+          "picto": "COMPO",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39255",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5443",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/F73/5A1/940/F735A1940DA134FC60E870C927D499C4_212x159.png",
+          "title": "COMPO BRIVE",
+          "summary": "Germain, auteur de 72% des points de son équipe, est forfait pour ce match. Il sera remplacé par Iribaren.",
+          "picto": "COMPO",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39252",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5445",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/A50/D21/713/A50D2171309E9AEBAD1350E9DA3B15AE_212x159.png",
+          "title": "CLASSEMENT TOP 14",
+          "summary": "Les Brivistes sont seulement à 3 points de leur adversaire du soir.",
+          "picto": "CLASSEMENT",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39254",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5444",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/EE9/522/27F/EE952227F58CD9912872337A0224C30F_212x159.png",
+          "title": "PROGRAMME ET RESULTATS 12 EME JOURNEE TOP 14",
+          "summary": "C'est le dernier match du samedi. Les deux dernières rencontres de cette 12ème journée se joueront demain.",
+          "picto": "MATCH",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39253",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5442",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/AEF/080/9AA/AEF0809AA297689BB6592343FD131CDA_212x159.png",
+          "title": "LE TOSS",
+          "summary": "Le capitaine briviste remporte le toss et choisit le terrain.",
+          "picto": "TOS",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39251",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5441",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/682/D78/D5B/682D78D5B3DD74E2AAAB29A2655FD63E_212x159.png",
+          "title": "INTERVIEW SHAUN SOWERBY",
+          "summary": "Interview de l'entraîneur des avants héraultais.",
+          "picto": "ITW",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39250",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5440",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/7C4/A5D/C5E/7C4A5DC5EA66CC1BD057ADB65ACEAF11_212x159.png",
+          "title": "ARRIVEE DES MONTPELLIERAINS",
+          "summary": "Montpellier reste sur une victoire face à Agen.",
+          "picto": "ARRIVEE DES EQUIPES",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39249",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5438",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/273/9A6/1E7/2739A61E7AFF09E6A84F456D2FED1C0A_212x159.png",
+          "title": "INTERVIEW NICOLAS GODIGNON",
+          "summary": "Interview avant match de l'entraîneur briviste.",
+          "picto": "ITW",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39248",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        },
+        {
+          "type": "ccast",
+          "contentID": "5439",
+          "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/1B9/C66/BD9/1B9C66BD902477B01E1CC7FDDBAFB5DF_212x159.png",
+          "title": "ARRIVEE DES BRIVISTES",
+          "summary": "Bonsoir et bienvenue pour cette rencontre entre Brive, 8ème, et Montpellier, 6ème.",
+          "picto": "ARRIVEE DES EQUIPES",
+          "highlight": false,
+          "time": "AV",
+          "onClick": {
+            "displayTemplate": "sportDetailPageCcast",
+            "displayName": "Temps forts",
+            "URLPage": "http://rugby-service.mycanal.fr/page/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast&params[videoID]=39247",
+            "BOName": "GENERIQUE - Ccast",
+            "BOLayoutName": "GENERIQUE - Ccast - Tablette",
+            "URLVitrine": "http://rugby-service.mycanal.fr/highlight/cfad9eeff89538df5990d8a1cc96e896/4148.json?cache=60000&id=2016_203_M_316122&params[type]=boSportCcast",
+            "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "currentPage": {
+    "displayTemplate": "gabaritList",
+    "displayName": "Classements Saison",
+    "displayType": "navControl",
+    "BOName": "Classements",
+    "BOLayoutName": "Classements",
+    "slug": "/pid3963-top-14.html"
+  },
+  "pageParameters": {
+    "displayType": "navControl"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Championnat",
+      "s.prop5": "F1Tab - Championnat - Classements",
+      "s.pagename": "F1Tab - Championnat - Classements"
+    }
+  },
+  "rubriques": [
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Pilotes",
+      "URLPage": "...",
+      "pullToRefresh": true,
+      "BOName": "Pilotes",
+      "BOLayoutName": "Pilotes",
+      "slug": "/top-14/pid3965-calendrier.html",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Pilotes"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Constructeurs",
+      "URLPage": "...",
+      "pullToRefresh": true,
+      "BOName": "Constructeurs",
+      "BOLayoutName": "Constructeurs",
+      "slug": "/top-14/pid3965-calendrier.html",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Constructeurs"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Pilotes et Constructeurs",
+      "URLPage": "...",
+      "pullToRefresh": true,
+      "BOName": "Pilotes et Constructeurs",
+      "BOLayoutName": "Pilotes et Constructeurs",
+      "slug": "/top-14/pid3965-calendrier.html",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Pilotes/Construct"
+    }
+  ]
+}

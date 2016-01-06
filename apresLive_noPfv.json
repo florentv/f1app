@@ -1,0 +1,48 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportDetailPageLive",
+    "displayName": "Grand Prix d'Italie",
+    "URLVitrine": "...",
+    "BOName": "GENERIQUE - Live",
+    "slug": "/ne-pas-toucher-rugby/pid3977-generique-live.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "RugbyMob",
+      "s.prop4": "RugbyMob - Live",
+      "s.prop5": "RugbyMob - Live - Match",
+      "s.pagename": "RugbyMob - Live"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "live",
+      "event": "f1",
+      "noLiveTitle": "Aucune diffusion live pour ce Grand Prix",
+      "URLImage" : "...",
+      "startTimeLive": 1451221200,
+      "endTimeLive": 1451228400,
+      "multicam": [
+        {
+          "displayName": "Temps",
+          "picto": "time",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/975.json?params[type]=live&cache=1800000"
+        }
+      ],
+      "countdownTitle": "Diffusion en direct dans : ",
+      "video": {
+        "type": "pfv",
+        "buttonTitle": "Voir le résumé du match",
+        "availableInVoDOnDevice": true,
+        "availableInD2GOnDevice": true,
+        "isInOfferForD2G": true,
+        "availableInLiveOnDevice": false,
+        "isInOffer": true,
+        "isInOfferOnDevice": true,
+        "HD": false
+      }
+    }
+  }
+}

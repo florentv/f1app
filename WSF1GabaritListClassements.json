@@ -1,0 +1,75 @@
+{
+  "currentPage": {
+    "displayTemplate": "modalGabaritList",
+    "displayName": "Classements",
+    "displayType": "tab",
+    "BOName": "GENERIQUE - Popin Classements",
+    "BOLayoutName": "GENERIQUE - Popin Classements",
+    "slug": "/ne-pas-toucher-rugby/pid3970-generique-popin-resultats.html"
+  },
+  "pageParameters": {
+    "displayType": "tab",
+    "displayMode": "modal"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Grand Prix d'Italie",
+      "s.prop5": "F1Tab - Grand Prix d'Italie - Live",
+      "s.prop6": "F1Tab - Grand Prix d'Italie - Live - Classements",
+      "s.pagename": "F1Tab - Grand Prix d'Italie - Live - Classements"
+    }
+  },
+  "rubriques": [
+    {
+      "URLPage": "...",
+      "displayTemplate": "sportRanking",
+      "displayName": "Course",
+      "BOName": "Course",
+      "BOLayoutName": "Course",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Course"
+    },
+    {
+      "URLPage": "...",
+      "displayTemplate": "sportRanking",
+      "displayName": "Qualifications",
+      "BOName": "Qualifications",
+      "BOLayoutName": "Qualifications",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Qualifications"
+    },
+    {
+      "URLPage": "...",
+      "displayTemplate": "sportRanking",
+      "displayName": "Essais 3",
+      "BOName": "Essais 3",
+      "BOLayoutName": "Essais 3",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Essais 3"
+    },
+    {
+      "URLPage": "...",
+      "displayTemplate": "sportRanking",
+      "displayName": "Essais 2",
+      "BOName": "Essais 2",
+      "BOLayoutName": "Essais 2",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Essais 2"
+    },
+    {
+      "URLPage": "...",
+      "displayTemplate": "sportRanking",
+      "displayName": "Essais 1",
+      "BOName": "Essais 1",
+      "BOLayoutName": "Essais 1",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Essais 1"
+    }
+  ]
+}

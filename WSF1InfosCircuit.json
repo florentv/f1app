@@ -1,0 +1,34 @@
+{
+  "currentPage": {
+    "displayTemplate": "landing",
+    "displayName": "Infos Circuit",
+    "BOName": "Infos Circuit",
+    "BOLayoutName": "Infos Circuit",
+    "slug": "/championnat/calendrier/pid3072-fiche-belgique.html"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Course",
+      "s.prop5": "F1Tab - Course - Grand Prix d'Italie",
+      "s.prop6": "F1Tab - Course - Grand Prix d'Italie - Infos Circuit",
+      "s.pagename": "F1Tab - Course - Grand Prix d'Italie - Infos Circuit"
+    }
+  },
+  "pageParameters": {
+    "displayMode": "modal"
+  },
+  "strates": [
+    {
+      "type": "eventPresentation",
+      "title": "Grand Prix de Belgique",
+      "subtitle": "21, 22 et 23 août",
+      "text": "Le tracé belge compte parmi les préférés des pilotes. Ses sept kilomètres en font la plus longue piste du calendrier. Mais elle est surtout renommée pour ses virages de \"Eau Rouge\" et du \"Raidillon\" : Un enchainement à plus de 300 Km/h dans une montée qui affiche jusqu'à 30% d'inclinaison et à juste titre surnommé \"Le Mur\" !",
+      "URLImage": "http://media.mycanal.fr/image/34/1/circuit-belgique_ipad_gp_462_x_348.8341.203.png",
+      "eventName": "Circuit de Spa-Francorchamps",
+      "eventInfo1": "Longueur : 7.004 km",
+      "eventInfo2": "Nombre de tours : 44",
+      "eventInfo3": "Record de la piste : 1'44''503 (J. Trulli - 2009)"
+    }
+  ]
+}

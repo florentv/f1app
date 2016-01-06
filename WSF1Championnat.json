@@ -1,0 +1,47 @@
+{
+  "currentPage": {
+    "displayTemplate": "gabaritList",
+    "displayName": "Championnat",
+    "displayType": "navControl",
+    "BOName": "Championnat",
+    "BOLayoutName": "Championnat",
+    "slug": "/pid3963-top-14.html"
+  },
+  "pageParameters": {
+    "displayType": "navControl"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Championnat",
+      "s.pagename": "F1Tab - Championnat"
+    }
+  },
+  "rubriques": [
+    {
+      "displayTemplate": "gabaritList",
+      "displayName": "Classements",
+      "URLPage": "...",
+      "displayType": "list",
+      "pullToRefresh": true,
+      "BOName": "Classements",
+      "BOLayoutName": "Classements",
+      "slug": "/top-14/pid3965-calendrier.html",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Classements"
+    },
+    {
+      "displayTemplate": "contentGrid",
+      "displayName": "Calendrier",
+      "URLPage": "http://f1-service.mycanal.fr/page/79339275809e4d3b1c6bcf9d7efbb0ac/2671.json?cache=300000",
+      "pullToRefresh": true,
+      "BOName": "Calendrier",
+      "BOLayoutName": "Calendrier",
+      "slug": "/top-14/pid3964-classement.html",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Calendrier"
+    }
+  ]
+}

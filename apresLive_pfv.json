@@ -1,0 +1,94 @@
+{
+   "currentPage": {
+    "displayTemplate": "sportDetailPageLive",
+    "displayName": "Grand Prix d'Italie",
+    "URLVitrine": "...",
+    "BOName": "GENERIQUE - Live",
+    "slug": "/ne-pas-toucher-rugby/pid3977-generique-live.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "RugbyMob",
+      "s.prop4": "RugbyMob - Live",
+      "s.prop5": "RugbyMob - Live - Match",
+      "s.pagename": "RugbyMob - Live"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "live",
+      "event": "f1",
+      "noLiveTitle": "Aucune diffusion live pour ce match",
+      "startTimeLive": 1438495440,
+      "endTimeLive": 1438743900,
+      "multicam": [
+        {
+          "displayName": "Temps",
+          "picto": "time",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/975.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "Mosaique",
+          "picto": "mosaic",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/970.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "GP",
+          "picto": "race",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/971.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "OnBoard",
+          "picto": "onboard",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/972.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "Stands",
+          "picto": "stand",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/973.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "Tracking",
+          "picto": "circuit",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/974.json?params[type]=live&cache=1800000"
+        }
+      ],
+      "countdownTitle": "Votre live dans : ",
+      "video": {
+        "type": "pfv",
+        "buttonTitle": "Voir le résumé du Grand Prix",
+        "duration": 85000,
+        "availableInVoDOnDevice": true,
+        "availableInD2GOnDevice": true,
+        "isInOfferForD2G": true,
+        "availableInLiveOnDevice": false,
+        "isInOffer": true,
+        "isInOfferOnDevice": true,
+        "URLImage": "http://media.canal-plus.com/wwwplus/image/1/10/12/nip-nip-62088-640x360-uwrxt.10139.jpg",
+        "title": "Rugby : Coupe du Monde 2015",
+        "subtitle": "La liste dans toutes les têtes",
+        "HD": true,
+        "summary": "Retrouvez toute l'actualité de la Coupe du Monde de Rugby sur Canalplus.fr",
+        "summaryMedium": "Retrouvez toute l'actualité de la Coupe du Monde de Rugby sur Canalplus.fr",
+        "contentID": "1297163",
+        "idVideoPub": "1297163",
+        "videoPathPub": "SPORT/RUGBY/COUPE_DU_MONDE",
+        "URLMedias": "http://preprod-rugby-service.canalplus.com/getMediaUrl/68645c6a02d5e836da428f9af93d87bb/1297163.json?pfv={FORMAT}&cache=1800000",
+        "noPub": false,
+        "VoD": {
+          "videoURL": "http://us-cplus-aka.canal-plus.com/i/geo3/1508/12/nip_NIP_62088_,200k,400k,800k,1500k,.mp4.csmil/master.m3u8",
+          "encryption": "clear"
+        },
+        "publicationDate": "Mercredi 12 août à 12h21",
+        "fbkWatchTag": "video.other"
+      }
+    }
+  }
+}

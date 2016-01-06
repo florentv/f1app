@@ -1,0 +1,69 @@
+{
+  "currentPage": {
+    "displayTemplate": "landing",
+    "displayName": "Horaires",
+    "BOName": "Horaires",
+    "BOLayoutName": "Horaires",
+    "slug": "/championnat/calendrier/pid3072-fiche-belgique.html"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Course",
+      "s.prop5": "F1Tab - Course - Grand Prix d'Italie",
+      "s.prop6": "F1Tab - Course - Grand Prix d'Italie - Horaires",
+      "s.pagename": "F1Tab - Course - Grand Prix d'Italie - Horaires"
+    }
+  },
+  "pageParameters": {
+    "displayMode": "modal",
+    "notificationsType": "schedule"
+  },
+  "strates": [
+    {
+      "type": "schedule",
+      "contents": [
+        {
+          "title": "Essais 1",
+          "buttonTitle": "Vendredi 3 juillet à 9h30",
+          "tvChannel": "Canal+ SPORT",
+          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
+          "eventStartDate": 1451763900,
+          "eventEndDate": 1451764900
+        },
+        {
+          "title": "Essais 2",
+          "buttonTitle": "Vendredi 3 juillet à 13h30",
+          "tvChannel": "Canal+ SPORT",
+          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
+          "eventStartDate": 1451763900,
+          "eventEndDate": 1451764900
+        },
+        {
+          "title": "Essais 1",
+          "buttonTitle": "Samedi 4 juillet à 9h00",
+          "tvChannel": "Canal+ SPORT",
+          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
+          "eventStartDate": 1451763900,
+          "eventEndDate": 1451764900
+        },
+        {
+          "title": "Essais 1",
+          "buttonTitle": "Samedi 4 juillet à 11h00",
+          "tvChannel": "Canal+",
+          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/1.png",
+          "eventStartDate": 1451763900,
+          "eventEndDate": 1451764900
+        },
+        {
+          "title": "Essais 1",
+          "buttonTitle": "Dimanche 5 juillet à 10h00",
+          "tvChannel": "Canal+",
+          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/1.png",
+          "eventStartDate": 1451763900,
+          "eventEndDate": 1451764900
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "token": "6d59dff13d427212eb7d646d76ea3f71",
+  "home": [],
+  "arborescence": [
+    {
+      "displayName": "Accès abonné",
+      "picto": "Key",
+      "onClick": {
+        "displayTemplate": "slideShow",
+        "displayName": "Accès Abonnés",
+        "URLPage": "http://rugby-service.mycanal.fr/page/6d59dff13d427212eb7d646d76ea3f71/4485.json?cache=300000",
+        "BOName": "Acces abonnes - Slideshow",
+        "BOLayoutName": "Acces abonnes - Slideshow",
+        "slug": "/pid4485-acces-abonnes-slideshow.html"
+      }
+    },
+    {
+      "displayName": "Accueil",
+      "picto": "Home",
+      "onClick": {
+        "displayTemplate": "landing",
+        "displayName": "Accueil",
+        "URLPage": "http://f1-service.mycanal.fr/page/79339275809e4d3b1c6bcf9d7efbb0ac/2425.json?cache=60000",
+        "pullToRefresh": true,
+        "BOName": "Accueil",
+        "BOLayoutName": "Accueil",
+        "displayLogo": "http://media.mycanal.fr/image/42/1/logoaccueil.10421.151.png",
+        "slug": "/pid3941-accueil.html"
+      }
+    },
+    {
+      "displayName": "Live",
+      "picto": "LiveSport",
+      "onClick": {
+        "displayTemplate": "slideshow",
+        "displayName": "Live",
+        "URLPage": "...",
+        "pullToRefresh": true,
+        "BOName": "Live",
+        "BOLayoutName": "Live",
+        "slug": "/pid3959-live.html"
+      }
+    },
+    {
+      "displayName": "Championnat",
+      "picto": "Championship",
+      "onClick": {
+        "displayTemplate": "gabaritList",
+        "displayName": "Championnat",
+        "URLPage": "...",
+        "displayType": "navControl",
+        "BOName": "Championnat",
+        "BOLayoutName": "Championnat",
+        "slug": "/pid3963-top-14.html"
+      }
+    },
+    {
+      "displayName": "Vidéos",
+      "picto": "Emission",
+      "onClick": {
+        "displayTemplate": "gabaritList",
+        "displayName": "Vidéos",
+        "URLPage": "...",
+        "displayType": "tab",
+        "BOName": "Vidéos",
+        "BOLayoutName": "Vidéos",
+        "slug": "/pid3988-coupe-du-monde.html"
+      }
+    },
+    {
+      "displayName": "Aide",
+      "picto": "MyTV",
+      "children": [
+        {
+          "displayName": "FAQ",
+          "onClick": {
+            "displayTemplate": "FAQ",
+            "displayName": "FAQ",
+            "URLPage": "http://rugby-service.mycanal.fr/page/6d59dff13d427212eb7d646d76ea3f71/4003.json?cache=300000",
+            "BOName": "FAQ",
+            "BOLayoutName": "FAQ - iOS",
+            "slug": "/mon-compte/pid4003-faq.html"
+          }
+        },
+        {
+          "displayName": "Nous contacter",
+          "onClick": {
+            "displayTemplate": "stub",
+            "displayName": "Nous contacter",
+            "URLPage": "http://rugby-service.mycanal.fr/page/6d59dff13d427212eb7d646d76ea3f71/3998.json?cache=300000",
+            "BOName": "Nous contacter",
+            "BOLayoutName": "Nous contacter",
+            "slug": "/mon-compte/pid3998-nous-contacter.html"
+          }
+        },
+        {
+          "displayName": "Paramètres",
+          "onClick": {
+            "displayTemplate": "monCompte",
+            "displayName": "Mon Compte",
+            "URLPage": "http://rugby-service.mycanal.fr/page/6d59dff13d427212eb7d646d76ea3f71/3996.json?cache=300000",
+            "BOName": "Parametres",
+            "BOLayoutName": "Mon Compte",
+            "slug": "/mon-compte/pid3996-parametres.html"
+          }
+        }
+      ]
+    }
+  ]
+}

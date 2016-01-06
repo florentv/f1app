@@ -1,0 +1,46 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportDetailPageLive",
+    "displayName": "Grand Prix d'Italie",
+    "URLVitrine": "...",
+    "BOName": "GENERIQUE - Live",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Grand Prix d'Italie",
+      "s.prop5": "F1Tab - Grand Prix d'Italie - Live",
+      "s.pagename": "F1Tab - Grand Prix d'Italie - Live"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "live",
+      "event": "f1",
+      "noLiveTitle": "Aucun diffusion live pour ce match",
+      "startTimeLive": 1438466400,
+      "endTimeLive": 1449047160,
+      "multicam": [
+        {
+          "displayName": "Temps",
+          "picto": "time",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/975.json?params[type]=live&cache=1800000"
+        }
+      ],
+      "countdownTitle": "Votre match dans : ",
+      "video": {
+        "type": "pfv",
+        "buttonTitle": "Voir le résumé du match",
+        "availableInVoDOnDevice": true,
+        "availableInD2GOnDevice": true,
+        "isInOfferForD2G": true,
+        "availableInLiveOnDevice": false,
+        "isInOffer": true,
+        "isInOfferOnDevice": true,
+        "HD": false
+      }
+    }
+  }
+}

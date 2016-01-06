@@ -1,0 +1,30 @@
+{
+  "currentPage": {
+    "displayTemplate": "mediaUrls"
+  },
+  "detail": {
+    "informations": {
+      "title": "ACCROCHAGE VETTEL SOUS TOUS LES ANGLES",
+      "type": "sportLive",
+      "fbkWatchTag": "video.episode",
+      "contentID": "32162",
+      "duration": 40510000,
+      "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/AEC/F05/9E0/AECF059E0D883CA05C2BB411A08F69C4_640x360.jpg",
+      "videoURLs": [
+        {
+          "videoURL": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/77C/0B4/C53/77C0B4C531AAE3DB21F93D71F0823FB2_android-6outputs.m3u8",
+          "encryption": "netco",
+          "productId": "2"
+        }
+      ]
+    }
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "MyCMob",
+      "s.prop4": "MyCMob – Lecture prog",
+      "s.prop5": "MyCMob – Lecture prog – ACCROCHAGE VETTEL SOUS TOUS LES ANGLES_3261",
+      "s.pagename": "MyCMob – Lecture prog – ACCROCHAGE VETTEL SOUS TOUS LES ANGLES_3261"
+    }
+  }
+}

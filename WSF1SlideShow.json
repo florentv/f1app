@@ -1,0 +1,332 @@
+{
+  "currentPage": {
+    "displayTemplate": "slideShow",
+    "displayName": "Live",
+    "BOName": "Live",
+    "BOLayoutName": "Live",
+    "slug": "/pid4485-acces-abonnes-slideshow.html"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Tab",
+      "s.prop4": "F1Tab - Live",
+      "s.pagename": "F1Tab - Live"
+    }
+  },
+  "pageParameters": {
+    "displayPaging": "numerical"
+  },
+  "slides": [
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "default": true,
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    },
+    {
+      "URLImage": "http://media.mycanal.fr/image/79/3/00a_bouchon_iphone2.11236.11793.143.jpg",
+      "URLImageRegularLandscape": "http://media.mycanal.fr/image/79/5/00a_bouchon_ipadh2.11234.349.11795.349.jpg",
+      "URLImageRegularPortrait": "http://media.mycanal.fr/image/79/4/00a_bouchon_ipadv2.11235.348.11794.348.jpg",
+      "imageLabel": "du 2 au 4 juin",
+      "buttons": [
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Grand Prix d'Italie",
+            "URLPage": "...",
+            "BOName": "Grand Prix d'Italie",
+            "slug": "/ne-pas-toucher-natif/pid3954-authentification.html"
+          },
+          "displayName": "Accéder à la course"
+        },
+        {
+          "buttonType": "inPage",
+          "onClick": {
+            "displayTemplate": "landing",
+            "displayName": "Horaires",
+            "displayMode": "modal",
+            "URLPage": "",
+            "BOName": "Horaires",
+            "slug": "/ne-pas-toucher-natif/pid3955-creation-de-compte.html"
+          },
+          "displayName": "Horaires"
+        }
+      ]
+    }
+  ]
+}

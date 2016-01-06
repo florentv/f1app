@@ -1,0 +1,55 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportDetailPageLive",
+    "displayName": "Grand Prix d'Italie",
+    "URLVitrine": "...",
+    "BOName": "GENERIQUE - Live",
+    "slug": "/ne-pas-toucher-rugby/pid3977-generique-live.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Mob",
+      "s.prop4": "F1Mob - Live",
+      "s.prop5": "F1Mob - Live - Grand Prix d'Italie",
+      "s.pagename": "F1Mob - Live - Grand Prix d'Italie"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "live",
+      "event": "f1",
+      "noLiveTitle": "Aucune diffusion live pour ce Grand Prix",
+      "countdownTitle": "Diffusion en direct dans : ",
+      "video": {
+        "type": "pfv",
+        "buttonTitle": "Voir le résumé du match",
+        "duration": 343000,
+        "availableInVoDOnDevice": true,
+        "availableInD2GOnDevice": true,
+        "isInOfferForD2G": true,
+        "availableInLiveOnDevice": false,
+        "isInOffer": true,
+        "isInOfferOnDevice": true,
+        "URLImage": "http://media.canal-plus.com/wwwplus/image/1/10/14/nip-nip-63298-640x360-ylhrt.10139.jpg",
+        "title": "Top 14 - 3ème journée",
+        "subtitle": "Grenoble 41-15 Pau",
+        "HD": true,
+        "summary": "Retrouvez les résumés de tous les matchs du Top 14",
+        "summaryMedium": "Retrouvez les résumés de tous les matchs du Top 14",
+        "contentID": "1304680",
+        "idVideoPub": "1304680",
+        "videoPathPub": "SPORT/RUGBY/TOP_14_RESUME",
+        "URLMedias": "http://rugby-service.mycanal.fr/getMediaUrl/9045b006c1bbf55f71da3b2fd5b3e5dc/1304680.json?pfv={FORMAT}&cache=10800000",
+        "noPub": false,
+        "VoD": {
+          "videoURL": "http://us-cplus-aka.canal-plus.com/i/geo3/1509/05/nip_NIP_63298_,200k,400k,800k,1500k,.mp4.csmil/master.m3u8",
+          "encryption": "clear"
+        },
+        "publicationDate": "Samedi 05 septembre à 21h26",
+        "sharingURL": "http://www.canalplus.fr/c-sport/c-rugby/c-top-14/pid7385-videos.html?vid=1304680",
+        "fbkWatchTag": "video.other"
+      }
+    }
+  }
+}

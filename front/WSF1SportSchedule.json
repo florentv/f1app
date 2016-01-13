@@ -16,7 +16,7 @@
     }
   },
   "pageParameters": {
-    "displayMode": "modal",
+    "displayPage": "modal",
     "notificationsType": "schedule"
   },
   "strates": [

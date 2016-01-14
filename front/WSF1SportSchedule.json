@@ -1,69 +1,60 @@
 {
   "currentPage": {
-    "displayTemplate": "landing",
+    "displayTemplate": "sportSchedule",
     "displayName": "Horaires",
+    "displayMode": "modal",
     "BOName": "Horaires",
-    "BOLayoutName": "Horaires",
-    "slug": "/championnat/calendrier/pid3072-fiche-belgique.html"
+    "slug": "/pid4548-horaires.html"
   },
   "tracking": {
     "omniture": {
       "s.channel": "F1Tab",
-      "s.prop4": "F1Tab - Course",
-      "s.prop5": "F1Tab - Course - Grand Prix d'Italie",
-      "s.prop6": "F1Tab - Course - Grand Prix d'Italie - Horaires",
-      "s.pagename": "F1Tab - Course - Grand Prix d'Italie - Horaires"
+      "s.prop4": "F1Tab - Live",
+      "s.prop5": "F1Tab - Live - Grand Prix d'Italie",
+      "s.prop6": "F1Tab - Live - Grand Prix d'Italie - Horaires",
+      "s.pagename": "F1Tab - Live - Grand Prix d'Italie - Horaires"
     }
   },
-  "pageParameters": {
-    "displayPage": "modal",
-    "notificationsType": "schedule"
-  },
-  "strates": [
+  "contents": [
     {
-      "type": "schedule",
-      "contents": [
-        {
-          "title": "Essais 1",
-          "buttonTitle": "Vendredi 3 juillet à 9h30",
-          "tvChannel": "Canal+ SPORT",
-          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
-          "eventStartDate": 1451763900,
-          "eventEndDate": 1451764900
-        },
-        {
-          "title": "Essais 2",
-          "buttonTitle": "Vendredi 3 juillet à 13h30",
-          "tvChannel": "Canal+ SPORT",
-          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
-          "eventStartDate": 1451763900,
-          "eventEndDate": 1451764900
-        },
-        {
-          "title": "Essais 1",
-          "buttonTitle": "Samedi 4 juillet à 9h00",
-          "tvChannel": "Canal+ SPORT",
-          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
-          "eventStartDate": 1451763900,
-          "eventEndDate": 1451764900
-        },
-        {
-          "title": "Essais 1",
-          "buttonTitle": "Samedi 4 juillet à 11h00",
-          "tvChannel": "Canal+",
-          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/1.png",
-          "eventStartDate": 1451763900,
-          "eventEndDate": 1451764900
-        },
-        {
-          "title": "Essais 1",
-          "buttonTitle": "Dimanche 5 juillet à 10h00",
-          "tvChannel": "Canal+",
-          "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/1.png",
-          "eventStartDate": 1451763900,
-          "eventEndDate": 1451764900
-        }
-      ]
+      "title": "Essais libres 1",
+      "subtitle": "Vendredi 3 juillet à 9h30",
+      "tvChannel": "Canal+ SPORT",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
+      "eventStartDate": 1451763900,
+      "eventEndDate": 1451764900
+    },
+    {
+      "title": "Essais libres 2",
+      "subtitle": "Vendredi 3 juillet à 13h30",
+      "tvChannel": "Canal+ SPORT",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
+      "eventStartDate": 1451763900,
+      "eventEndDate": 1451764900
+    },
+    {
+      "title": "Essais libres 3",
+      "subtitle": "Samedi 4 juillet à 9h00",
+      "tvChannel": "Canal+ SPORT",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/2.png",
+      "eventStartDate": 1451763900,
+      "eventEndDate": 1451764900
+    },
+    {
+      "title": "Qualifications",
+      "subtitle": "Samedi 4 juillet à 11h00",
+      "tvChannel": "Canal+",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/1.png",
+      "eventStartDate": 1451763900,
+      "eventEndDate": 1451764900
+    },
+    {
+      "title": "Course",
+      "subtitle": "Dimanche 5 juillet à 10h00",
+      "tvChannel": "Canal+",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/1.png",
+      "eventStartDate": 1451763900,
+      "eventEndDate": 1451764900
     }
   ]
 }

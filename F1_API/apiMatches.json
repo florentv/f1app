@@ -6,7 +6,8 @@
 		"schedule": {
 			"startDate":1432390500,
 			"displayDate":"2015-05-23",
-			"displayDatetime":"18h00"
+			"displayDatetime":"18h00",
+			"endDate": 1432393500
 		},
 		"channel": {
 			"displayName":"CANAL+SPORT",

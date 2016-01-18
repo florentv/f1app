@@ -15,6 +15,7 @@
     {
       "type": "rankingVitrine",
       "title": "Classement de la course",
+      "autorefresh": 30000,
       "contents": [
         {
           "title": "Hamilton Lewis",

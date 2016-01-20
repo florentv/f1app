@@ -20,7 +20,7 @@
   "rubriques": [
     {
       "displayTemplate": "gabaritList",
-      "displayName": "Classements",
+      "displayName": "Classements Saison",
       "URLPage": "...",
       "displayType": "list",
       "pullToRefresh": true,

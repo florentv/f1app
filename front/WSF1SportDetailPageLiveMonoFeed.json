@@ -21,6 +21,7 @@
       "noLiveTitle": "Aucun diffusion live pour ce match",
       "startTimeLive": 1438466400,
       "endTimeLive": 1449047160,
+      "urlImage": "https://storage.googleapis.com/canal_rugby_integ/images/endMatchImage/136.jpg",
       "multicam": [
         {
           "displayName": "Temps",

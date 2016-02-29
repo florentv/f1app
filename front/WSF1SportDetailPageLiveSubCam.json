@@ -18,6 +18,7 @@
     "informations": {
       "type": "live",
       "event": "f1",
+      "liveTitle": "Voir le direct",
       "noLiveTitle": "Aucun diffusion live pour ce match",
       "startTimeLive": 1438466400,
       "endTimeLive": 1449047160,

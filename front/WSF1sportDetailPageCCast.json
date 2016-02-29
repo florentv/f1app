@@ -1,0 +1,53 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportDetailPageCcast",
+    "displayName": "Accrochage Vettel sous tous les angles",
+    "URLVitrine": "...",
+    "BOName": "GENERIQUE - Ccast",
+    "BOLayoutName": "GENERIQUE - Ccast - Phone",
+    "slug": "/ne-pas-toucher-rugby/pid4148-generique-ccast.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Mob",
+      "s.prop4": "F1Mob - Live",
+      "s.prop5": "F1Mob - Live - Grand Prix d'Italie",
+      "s.prop6": "F1Mob - Live - Grand Prix d'Italie - Ccast - Accrochage Vettel sous tous les angles",
+      "s.pagename": "F1Mob - Live - Grand Prix d'Italie - Ccast - Accrochage Vettel sous tous les angles"
+    }
+  },
+  "detail": {
+    "informations": {
+      "title": "Accrochage Vettel sous tous les angles",
+      "summary": "Au 41e tour, Vettel arrive trop vite sur le 4eme virage et sort de piste. Plus de peur que de mal pour l'allemand qui parvient à reprendre la course.",
+      "type": "ccast",
+      "eventType": "f1",
+      "contentID": "32162",
+      "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/985/E89/ED4/985E89ED465165E5DE9BB2AB0C3E80AE_212x159.png",
+      "time": "41",
+      "picto": "DEPASSEMENT",
+      "duration": 41740,
+      "multicam": [
+        {
+          "displayName": "Temps",
+          "picto": "time",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/975.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "Mosaique",
+          "picto": "mosaic",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/970.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "GP",
+          "picto": "race",
+          "children": [],
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/5f5489a7a1daa6ce77fe09f4b633524e/971.json?params[type]=live&cache=1800000"
+        }
+      ]
+    }
+  }
+}
